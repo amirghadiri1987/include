@@ -1,0 +1,20 @@
+//  header
+"isindex",
+"base",
+"meta",
+"link",
+"nextid",
+"range",
+// elsewhere
+"img",
+"br",
+"hr",
+"frame",
+"wbr",
+"basefont",
+"spacer",
+"area",
+"param",
+"keygen",
+"col",
+"limittext"
